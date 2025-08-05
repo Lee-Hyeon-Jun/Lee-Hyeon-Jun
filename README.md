@@ -21,21 +21,6 @@ My research interests focus on understanding the internal mechanisms of models t
 </p>
 
 
----
-
-📩 For contact, reach me via 
-[![Email](https://img.shields.io/badge/lcdbsa522@gmail.com-FFFFFF?style=flat&logo=Gmail&logoColor=black)](mailto:lcdbsa522@gmail.com)  
-
-📑 For more details about me, check my 
-[![Notion](https://img.shields.io/badge/Notion%20Portfolio-000000?style=flat&logo=Notion&logoColor=white)](https://concise-collard-0a7.notion.site/HyeonJun-Lee-23839926b62d80c8b988f73d3121526c)
-
----
-
-📩 For contact, reach me via **[lcdbsa522@gmail.com](mailto:lcdbsa522@gmail.com)**  
-
-📑 For more details about me, check my **[Notion Portfolio](https://concise-collard-0a7.notion.site/HyeonJun-Lee-23839926b62d80c8b988f73d3121526c)**
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" /> Research Interests  
 - **Knowledge Transfer**: Self-Supervised Learning, Knowledge Distillation, Transfer Learning  
 - **Model Compression**: Quantization, Pruning, Lightweight Neural Architectures  
@@ -70,7 +55,3 @@ My research interests focus on understanding the internal mechanisms of models t
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white"/>
 </p>
-
-
-
-<div align="center"> For more info about me, please refer to <a href="https://concise-collard-0a7.notion.site/HyeonJun-Lee-23839926b62d80c8b988f73d3121526c">link</a>! </div>
