@@ -1,20 +1,20 @@
 # Hi, I'm Hyeon Jun👋  
 
 I'm Hyeon Jun Lee, an aspiring AI researcher.  
-I majored in **AI, Big Data & Management** and **Data Science**, with a minor in **Software**.  
-My research interests focus on understanding the internal mechanisms of models to guide advancements in **knowledge transfer**, **model compression**, and **multimodal learning**, integrating theoretical insights with empirical validation.
+I completed my undergraduate studies with a double major in **AI, Big Data & Management** and **Data Science**, and a minor in **Software**.  
+My research interests lie in understanding the internal mechanisms of models to advance **knowledge transfer**, **model compression**, and **multimodal learning**, by integrating theoretical insights with empirical validation.
 
 
 </p>
 <p align="left">
-  &emsp;📩 For contact, reach me via  
+  &emsp;📩 Feel free to contact me via
   <a href="mailto:lcdbsa522@gmail.com">
     <img src="https://img.shields.io/badge/lcdbsa522@gmail.com-FFFFFF?style=flat&logo=Gmail&logoColor=black"/>
   </a>
 </p>
 
 <p align="left">
-  &emsp;📑 For more details about me, check my  
+  &emsp;📑 For more information about me, please visit my
   <a href="https://concise-collard-0a7.notion.site/HyeonJun-Lee-23839926b62d80c8b988f73d3121526c">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   </a>
