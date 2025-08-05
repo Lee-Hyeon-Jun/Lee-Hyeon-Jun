@@ -1,4 +1,4 @@
-# Hi, I'm Hyeon Jun Lee 👋  
+# Hi, I'm Hyeon Jun👋  
 
 I'm Hyeon Jun Lee, an aspiring AI researcher.  
 I majored in **AI, Big Data & Management** and **Data Science**, with a minor in **Software**.  
