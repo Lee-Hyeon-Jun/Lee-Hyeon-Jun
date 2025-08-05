@@ -4,7 +4,6 @@
 📍 Completed all degree requirements (Graduation deferred, Aug. 2025)  
 🔬 Interested in **Knowledge Transfer, Model Compression, and Multimodal Learning**  
 
-[![CV](https://img.shields.io/badge/CV-Download-blue)](링크)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-lightgrey)](https://concise-collard-0a7.notion.site/HyeonJun-Lee-23839926b62d80c8b988f73d3121526c)
 [![Email](https://img.shields.io/badge/Email-lcdbsa522%40kookmin.ac.kr-red)](mailto:lcdbsa522@kookmin.ac.kr)
 
