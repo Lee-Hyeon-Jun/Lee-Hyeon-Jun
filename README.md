@@ -8,8 +8,8 @@ My research interests focus on understanding the internal mechanisms of models t
 </p>
 <p align="left">
   &emsp;📩 For contact, reach me via  
-  <a href="mailto:lbghj522@kookmin.ac.kr">
-    <img src="https://img.shields.io/badge/lbghj522@kookmin.ac.kr-FFFFFF?style=flat&logo=Gmail&logoColor=black"/>
+  <a href="mailto:lcdbsa522@gmail.com">
+    <img src="https://img.shields.io/badge/lcdbsa522@gmail.com-FFFFFF?style=flat&logo=Gmail&logoColor=black"/>
   </a>
 </p>
 
