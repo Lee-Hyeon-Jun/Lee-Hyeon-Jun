@@ -24,9 +24,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![HyeonJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Hyeon-Jun&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Hyeon-Jun&layout=compact)
