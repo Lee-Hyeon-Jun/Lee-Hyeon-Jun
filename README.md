@@ -16,7 +16,7 @@ My research interests focus on understanding the internal mechanisms of models t
 <p align="left">
   &emsp;📑 For more details about me, check my  
   <a href="https://concise-collard-0a7.notion.site/HyeonJun-Lee-23839926b62d80c8b988f73d3121526c">
-    <img src="https://img.shields.io/badge/Notionㄴ-000000?style=flat&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   </a>
 </p>
 
